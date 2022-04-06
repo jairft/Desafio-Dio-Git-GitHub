@@ -1,0 +1,13 @@
+links para download do Git:https://git-scm.com/download/win
+
+Comandos basicos do GIT:
+
+git init : inicializa um armazenamento local git
+git status : verifica o estado dos seus arquivos
+git add <nomeDoArquivo> : envia seu arquivo especificado para o Stage
+git add - -all : envia todos os arquivos para o Stage
+git commit -m “tituloDoCommit: envia o que está no Stage para o HEAD
+git remote add originurDoRepositorio: adiciona a URL do repositório remoto em que os arquivos serão únicos
+git push origin master: envia os arquivos para o controle remoto que você especificou acima através da URL do comando
+git checkout -b <nomeDaBranch>: cria uma nova branch
+git checkout <nomeDaBranch>: alterna para um branch especificado
